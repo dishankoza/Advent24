@@ -16,4 +16,4 @@ Advent of Code is an advent calendar for programmers. Each day in December, a ne
 You can find more details on the [Advent of Code website](https://adventofcode.com/2024).
 
 ## Structure
-Each day's puzzle is solved in src/Day{no}.java.
+Each day's puzzle is solved in src/Day{no}.java with the corresponding data into input/day{no}.txt.
